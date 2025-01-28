@@ -2,11 +2,11 @@
 title: "homework_2"
 author: "Aurna Mukherjee (am96848)"
 date: "2024-01-19"
-link: 
 output:
   html_document: default
   pdf_document: default
 ---
+[GitHub Repository](https://github.com/aurnam18/hw2)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
